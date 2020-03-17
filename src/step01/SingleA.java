@@ -1,7 +1,7 @@
 package step01;
 
 public class SingleA {
-	private static SingleB cc =null; //SingleBÀÇ °´Ã¼ ÁÖ¼Ò¸¸ ´ãÀ» ÂüÁ¶º¯¼ö   
+	private static SingleB cc =null; //SingleBï¿½ï¿½ ï¿½ï¿½Ã¼ ï¿½Ö¼Ò¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½   
 
 	public static void main(String[] args) {
 		
@@ -12,6 +12,8 @@ public class SingleA {
 		
 		
 		System.out.println(cc);
+		
+		
 				
 				
 

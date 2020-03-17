@@ -27,7 +27,7 @@ public class t01 {
 //		// kim jea yeon(34 ��) 
 //		// kim jea yeon(28.9 ���Դϴ�)
 //        // ���� 34���̰� 188.1cm �̰� 88.1�̴�
-
+		// 2020.03.17 소스수정
 		int a =10;
 		int b =20;
 		System.out.println(a+b);
