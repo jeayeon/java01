@@ -1,32 +1,36 @@
 //package step01;
 //
-//public class t01 {
+public class t01 {
 //
-//	public static void main(String[] args) {
+	public static void main(String[] args) {
 //		// TODO Auto-generated method stub
 //		String name = "kim jea yeon";
 //		int age = 34;
-//		double key = 188.1; // ½Ç¼ö
-//		String tel = "010-6374-9559"; // ¹®ÀÚ¿­
-//		int tell = 010 - 6374 - 9559; // ¼ýÀÚ
-//		char blood = 'b'; // ¹®ÀÚ
+//		double key = 188.1; // ï¿½Ç¼ï¿½
+//		String tel = "010-6374-9559"; // ï¿½ï¿½ï¿½Ú¿ï¿½
+//		int tell = 010 - 6374 - 9559; // ï¿½ï¿½ï¿½ï¿½
+//		char blood = 'b'; // ï¿½ï¿½ï¿½ï¿½
 //		double hight = 88.1;
-//		// ¹®ÀÚ¿¡ ´Â ' ¹®ÀÚ¿­¿¡´Â " ¼ýÀÚ,½Ç¼ö´Â ¾ÈºÙ¿©µµµÊ
+//		// ï¿½ï¿½ï¿½Ú¿ï¿½ ï¿½ï¿½ ' ï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½ï¿½ï¿½ " ï¿½ï¿½ï¿½ï¿½,ï¿½Ç¼ï¿½ï¿½ï¿½ ï¿½ÈºÙ¿ï¿½ï¿½ï¿½ï¿½ï¿½
 //		
 //		System.out.println(tel + "/" + tell);
-//	    System.out.println(name + "(" + age + " ¼¼)");
+//	    System.out.println(name + "(" + age + " ï¿½ï¿½)");
 //	   
 //
 //		
 //		
 //		
 //		
-//		System.out.println(name + "(Á¦ Å°´Â " + key +" ÀÔ´Ï´Ù)");
-//	    System.out.println("³ª´Â" + age + "»ìÀÌ°í " + key + "cm ÀÌ°í " + hight + "ÀÌ´Ù");
+//		System.out.println(name + "(ï¿½ï¿½ Å°ï¿½ï¿½ " + key +" ï¿½Ô´Ï´ï¿½)");
+//	    System.out.println("ï¿½ï¿½ï¿½ï¿½" + age + "ï¿½ï¿½ï¿½Ì°ï¿½ " + key + "cm ï¿½Ì°ï¿½ " + hight + "ï¿½Ì´ï¿½");
 //		
-//		// kim jea yeon(34 ¼¼) 
-//		// kim jea yeon(28.9 »ìÀÔ´Ï´Ù)
-//        // ³ª´Â 34»ìÀÌ°í 188.1cm ÀÌ°í 88.1ÀÌ´Ù
-//	}
-//
-//}
+//		// kim jea yeon(34 ï¿½ï¿½) 
+//		// kim jea yeon(28.9 ï¿½ï¿½ï¿½Ô´Ï´ï¿½)
+//        // ï¿½ï¿½ï¿½ï¿½ 34ï¿½ï¿½ï¿½Ì°ï¿½ 188.1cm ï¿½Ì°ï¿½ 88.1ï¿½Ì´ï¿½
+
+		int a =10;
+		int b =20;
+		System.out.println(a+b);
+	}
+
+}
